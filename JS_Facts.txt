@@ -6,3 +6,4 @@ According to surveys, nearly 70% of developers consider JS the most popular prog
 Lesser known Uses of JS: Virtual Reality, Game development, Smartwatch application, IoT, AI and machine learning, data visualization
 Js is a versatile programming language primarily used to add interactivity and dynamic features to websites
 
+Important Information
